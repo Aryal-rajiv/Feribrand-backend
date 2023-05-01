@@ -1,0 +1,51 @@
+[
+    {
+        "name": "pant",
+        "price": 1200,
+        "featured": true,
+        "company": "Zara"
+    },
+
+    {
+        "name": "Shirt",
+        "price": 800,
+        "featured": true,
+        "company": "Brocade"
+     },
+     {
+        "name": "Frock",
+        "price": 1000,
+        "company": "Kasa"
+     },
+     {
+        "name": "Gown",
+        "price": 2000,
+        "company": "Lakhey"
+     },
+     {
+        "name": "Coat",
+        "price": 2200,
+        "company": "Mode"
+     },
+     {
+         "name": "short",
+         "price": 1500,
+         "company": "Nike"
+     },
+     {
+        "name": "Cloth-bag",
+        "price": 3000,
+        "company": "Gucci"
+     },
+
+     {
+        "name": "Tracksuit",
+        "price": 2500,
+        "company": "Addidas"
+     },
+     {
+        "name": "Scarf",
+        "price": 800,
+        "company": "Chanel"
+     }
+]
